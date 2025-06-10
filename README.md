@@ -7,6 +7,7 @@ Users can explore pre-defined "memory banks" of information or create their own,
 
 https://github.com/user-attachments/assets/34cf8dfd-7d15-42da-8550-a402c23ca068
 
+[Try it out on Hugging Face ](https://huggingface.co/spaces/callbacked/qwen3-semantic-search)
 
 
 ## How It Works
