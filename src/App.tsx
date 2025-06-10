@@ -554,7 +554,7 @@ function App() {
             />
             <h1>Qwen3 Semantic Search</h1>
             <div className="sub-links">
-              <a href="https://github.com/callbacked/qwen3-mcp-semantic-search" target="_blank" rel="noopener noreferrer" className="github-link">
+              <a href="https://github.com/callbacked/qwen3-semantic-search" target="_blank" rel="noopener noreferrer" className="github-link">
                 <svg
                   viewBox="0 0 16 16"
                   version="1.1"
