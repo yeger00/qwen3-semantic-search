@@ -1,0 +1,22 @@
+export const memoryBankScience = [
+    "The theory of relativity, developed by Albert Einstein, includes both special and general relativity and revolutionized our understanding of space, time, and gravity.",
+    "DNA (Deoxyribonucleic acid) is a molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known organisms and many viruses.",
+    "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy, through a process that converts carbon dioxide and water into glucose and oxygen.",
+    "The Earth revolves around the Sun in an elliptical orbit, taking approximately 365.25 days to complete one full revolution.",
+    "A water molecule is composed of two hydrogen atoms and one oxygen atom, bonded together covalently.",
+    "The mitochondrion is a double-membraned organelle found in most eukaryotic organisms which generates most of the cell's supply of adenosine triphosphate (ATP).",
+    "Gravity is the fundamental force of attraction that all objects with mass or energy have for one another.",
+    "The periodic table is a tabular arrangement of the chemical elements, ordered by their atomic number, electron configuration, and recurring chemical properties.",
+    "A black hole is a region of spacetime where gravity is so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it.",
+    "Evolution by natural selection is the process where organisms better adapted to their environment tend to survive and produce more offspring.",
+    "Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.",
+    "The Big Bang theory is the leading cosmological model for the observable universe from the earliest known periods through its subsequent large-scale evolution.",
+    "A neuron is an electrically excitable cell that communicates with other cells via specialized connections called synapses.",
+    "The process of cellular respiration converts biochemical energy from nutrients into adenosine triphosphate (ATP), and then releases waste products.",
+    "Plate tectonics is the scientific theory that Earth's outer shell is divided into several plates that glide over the mantle.",
+    "A catalyst is a substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change.",
+    "The Doppler effect is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.",
+    "Homeostasis is the state of steady internal, physical, and chemical conditions maintained by living systems.",
+    "An exoplanet or extrasolar planet is a planet outside the Solar System.",
+    "Gene editing, or genome editing, is a type of genetic engineering in which DNA is inserted, deleted, modified or replaced in the genome of a living organism."
+]; 

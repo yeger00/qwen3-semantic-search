@@ -1,0 +1,22 @@
+export const memoryBankProgramming = [
+    "Python is an interpreted, high-level, general-purpose programming language known for its readability.",
+    "React is a free and open-source front-end JavaScript library for building user interfaces based on components.",
+    "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+    "SQL (Structured Query Language) is a domain-specific language used for managing and querying relational databases.",
+    "Git is a distributed version control system that tracks changes in any set of computer files.",
+    "An API (Application Programming Interface) is a set of rules and protocols that allow different software applications to communicate with each other.",
+    "Object-oriented programming (OOP) is a programming paradigm based on the concept of 'objects', which can contain data and code.",
+    "Functional programming is a programming paradigm where programs are constructed by applying and composing functions.",
+    "A compiler is a special program that translates a programming language's source code into machine code, bytecode or another programming language.",
+    "Debugging is the multi-step process of identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it.",
+    "A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently.",
+    "An algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of problems or to perform a computation.",
+    "Binary search is an efficient algorithm for finding an item from a sorted list of items.",
+    "A hash table is a data structure that implements an associative array abstract data type, a structure that can map keys to values.",
+    "Recursion in computer science is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem.",
+    "Rust is a multi-paradigm, general-purpose programming language that emphasizes performance, type safety, and concurrency.",
+    "Go (or Golang) is a statically typed, compiled programming language designed at Google with a focus on simplicity and efficiency.",
+    "Docker is a set of platform-as-a-service products that use OS-level virtualization to deliver software in packages called containers.",
+    "Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.",
+    "A 'closure' is a function that remembers the environment in which it was created."
+]; 

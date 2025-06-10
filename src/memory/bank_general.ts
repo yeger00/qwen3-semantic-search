@@ -1,0 +1,22 @@
+export const memoryBankGeneral = [
+    "The sky is blue because of Rayleigh scattering.",
+    "The sun is a star at the center of the Solar System.",
+    "Cats are crepuscular, most active at dawn and dusk.",
+    "Dogs have been domesticated for thousands of years.",
+    "JavaScript is a high-level, interpreted programming language.",
+    "Web development involves creating and maintaining websites.",
+    "Paris is the most populous city in France.",
+    "The Eiffel Tower was the entrance to the 1889 World's Fair.",
+    "Artificial intelligence involves simulating human intelligence in machines.",
+    "Machine learning algorithms build a model based on sample data.",
+    "The Great Wall of China is a series of fortifications.",
+    "Mount Everest is the Earth's highest mountain above sea level.",
+    "The Amazon River is the largest river by discharge volume of water in the world.",
+    "William Shakespeare was an English playwright, poet, and actor.",
+    "The Renaissance was a period of great cultural change in Europe.",
+    "Democracy is a system of government where citizens exercise power by voting.",
+    "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+    "Water is composed of hydrogen and oxygen atoms.",
+    "Climate change is the long-term alteration of temperature and typical weather patterns.",
+    "Photosynthesis is the process used by plants to convert light energy into chemical energy."
+]; 
