@@ -5,6 +5,10 @@ This is a demonstration the power of using semantic search with the Qwen3-Embedd
 Users can explore pre-defined "memory banks" of information or create their own, and then use natural language queries to find the most relevant pieces of text based on their semantic meaning, not just keyword matching.
 
 
+https://github.com/user-attachments/assets/34cf8dfd-7d15-42da-8550-a402c23ca068
+
+
+
 ## How It Works
 
 1.  **Model Loading**: On first visit, the application downloads the ONNX embedding model and its associated tokenizer from the Hugging Face Hub. These are stored in the browser's cache.
