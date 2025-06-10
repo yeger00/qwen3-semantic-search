@@ -282,7 +282,7 @@ function App() {
 
       // embed and cache memory banks
       setShowProgressBar(false);
-      setLoadingMessage('Verifying cached data...');
+      setLoadingMessage('Generating embeddings...');
       setLoadingStageText('');
       
       const defaultBankNames = Object.keys(memoryBanks) as MemoryBankName[];
